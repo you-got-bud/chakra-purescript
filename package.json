@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/you-got-bud/chakra-purescript/issues"
   },
-  "homepage": "https://github.com/you-got-bud/chakra-purescript#readme"
+  "homepage": "https://github.com/you-got-bud/chakra-purescript#readme",
+  "dependencies": {
+    "chakra-ui": "^0.3.9"
+  }
 }
