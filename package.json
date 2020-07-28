@@ -1,0 +1,26 @@
+{
+  "name": "chakra-purescript",
+  "version": "1.0.0",
+  "description": "Purescript bindings for chakra-ui components",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you-got-bud/chakra-purescript.git"
+  },
+  "keywords": [
+    "funcitonal-programming",
+    "react"
+  ],
+  "author": "brettm12345",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/you-got-bud/chakra-purescript/issues"
+  },
+  "homepage": "https://github.com/you-got-bud/chakra-purescript#readme"
+}
